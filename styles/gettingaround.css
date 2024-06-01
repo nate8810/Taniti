@@ -1,0 +1,15 @@
+﻿body {
+}
+
+header {
+    background-image: url(../assets/images/taxi.jpg);
+    background-position: 0px -94rem !important;
+}
+
+    header > .display-3 {
+        font-weight: 500;
+    }
+
+section {
+    text-align: center;
+}

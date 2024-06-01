@@ -1,0 +1,10 @@
+﻿body {
+}
+
+header {
+    background-image: url(../assets/images/question.jpg);
+}
+
+.pageSection {
+    text-align: left;
+}

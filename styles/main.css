@@ -1,0 +1,25 @@
+﻿body {
+}
+
+.navbar-brand > img {
+    height: unset;
+    width: 7rem;
+}
+
+.pageHeader {
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+    .pageHeader > .display-3 {
+        font-weight: 500;
+    }
+
+.pageSection {
+    text-align: center;
+}
